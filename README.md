@@ -6,9 +6,7 @@
 - 🔭 I’m currently working at **Cognizant Technology Solutions**
 
 - 🌱 I’m currently learning **Next.Js, React Native**
-
-- 👨‍💻 All of my projects are available at [https://mahiboob78.github.io/My_Portfolio/](https://mahiboob78.github.io/My_Portfolio/)
-
+  
 - 💬 Ask me about **HTML5, CSS3, Tailwind CSS, JavaScript, React.Js, Redux, Next.Js,**
 
 - 📫 How to reach me **mahiboobali498@gmail.com**
