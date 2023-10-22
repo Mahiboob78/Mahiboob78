@@ -12,7 +12,7 @@
 - 📫 How to reach me **mahiboobali498@gmail.com**
 
 
-- 📄 Know about my experiences [https://mahiboob78.github.io/My_Portfolio/resume/MAHIBOOB%20B.pdf](https://mahiboob78.github.io/My_Portfolio/resume/MAHIBOOB%20B.pdf)
+- 📄 Know about my experiences <a href='https://mahiboob78.github.io/My_Portfolio/resume/MAHIBOOB%20B.pdf'>My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
