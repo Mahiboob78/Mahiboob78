@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.Js, React Native**
   
-- 💬 Ask me about **HTML5, CSS3, Tailwind CSS, JavaScript, React.Js, Redux, Next.Js,**
+- 💬 Ask me about **Frontend Development and UI/UX Design**
 
 - 📫 How to reach me **mahiboobali498@gmail.com**
 
