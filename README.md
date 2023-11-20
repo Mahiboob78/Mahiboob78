@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.Js, React Native**
   
-- 💬 Ask me about **Frontend Development and UI/UX Design**
+- 💬 Ask me about **Frontend Development & UI/UX Design**
 
 - 📫 How to reach me **mahiboobali498@gmail.com**
 
